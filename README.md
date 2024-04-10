@@ -12,29 +12,143 @@ what I use ?
 
 [react-pdf]([GitHub - wojtekmaj/react-pdf: Display PDFs in your React app as easily as if they were images.](https://github.com/wojtekmaj/react-pdf))
 
-[react-images]([GitHub - jossmac/react-images: 🌄 A mobile-friendly, highly customizable, carousel component for displaying media in ReactJS](https://github.com/jossmac/react-images))
+一个显示pdf的插件，可以从后端获取对应的pdf文件流，转换为对应的html显示在页面上
+
+[react-images](https://github.com/jossmac/react-images)
+
+[splide](https://github.com/Splidejs/splide)
+
+[nuka-carousel](https://github.com/FormidableLabs/nuka-carousel)
+
+[react-grid-gallery](https://github.com/benhowell/react-grid-gallery)
+
+一个轮播图解决方案
 
 [React Photo Gallery](https://github.com/neptunian/react-photo-gallery)
 
+[React-photo-view](https://github.com/MinJieLiu/react-photo-view)
+
+
+
+一个图片瀑布流加载方案
+
 [react-hook-form)](https://github.com/react-hook-form/react-hook-form)
+
+一个优秀创建表单的插件
 
 [react-joyride](https://github.com/gilbarbara/react-joyride) 
 
 一个新用户引导插件
 
+
+
+### 图片截图插件
+
+[antd-img-crop](https://github.com/nanxiaobei/antd-img-crop)
+
 [react-advanced-cropper](https://github.com/advanced-cropper/react-advanced-cropper)
 
-一个图片截取插件
+
 
 [react-colorful](https://github.com/omgovich/react-colorful)
 
 一个颜色选择器
 
+### 动画效果库
+
 [react-spring](https://github.com/pmndrs/react-spring)
 
-一个动画效果库
+[react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit)
+
+#### 文字动画效果
+
+[react-text-loop](https://github.com/braposo/react-text-loop)
 
 
+
+[react-player](https://github.com/cookpete/react-player)
+
+[audio-player](https://github.com/madzadev/audio-player)
+
+一个视频播放器插件
+
+[reat-dnd](ttps://github.com/react-dnd/react-dnd)
+
+拖拽解决方案
+
+[react-sign](https://github.com/MrXujiang/react-sign)
+
+[react-signature-canvas](https://github.com/react-dnd/react-dnd)
+
+手写签名解决方案
+
+[react-router-cache-route](https://github.com/CJY0208/react-router-cache-route)
+
+[react-activeation](https://github.com/CJY0208/react-activation)
+
+react router 缓存解决方案
+
+[query](https://github.com/TanStack/query)
+
+全局状态管理解决方案
+
+[react-tooltip](https://github.com/ReactTooltip/react-tooltip)
+
+[react-popper](https://github.com/floating-ui/react-popper)
+
+优秀的轻提示解决方案
+
+[react-calender](https://github.com/wojtekmaj/react-calendar)
+
+日历选择解决方案
+
+[callapp-lib](https://github.com/suanmei/callapp-lib)
+
+callapp-lib 是一个 H5 唤起 APP 的解决方案，能够满足大部分唤起客户端的场景，也预留了扩展口，帮你实现一些定制化的功能。
+
+[canvas-editor](https://github.com/Hufe921/canvas-editor)
+
+[picker](https://github.com/react-component/picker)
+
+富文本编辑器解决方案
+
+[react-use-websocket](htps://github.com/robtaussig/react-use-websocket)
+
+react连接websocket解决方案
+
+[react-vant](https://github.com/3lang3/react-vant)
+
+[shineout](https://github.com/sheinsight/shineout)
+
+react UI库
+
+[rc-slider-captcha](https://github.com/caijf/rc-slider-captcha)
+
+[react-captcha](https://github.com/WebEngineerLi/react-captcha)
+
+[slider-captcha-react](https://github.com/cheepion/slider-captcha-react)
+
+滑块验证码插件
+
+[react-circle-slider](https://github.com/dmitrymorozoff/react-circle-slider)
+
+圆环选择器插件
+
+[antd-input-otp](https://github.com/Ralfarios/antd-input-otp)
+
+A custom input component for OTP (One Time Password) based on [Ant Design Input](https://ant.design/components/input) for React.
+
+[lucky-canvas](https://github.com/buuing/lucky-canvas)
+
+一个基于 JavaScript 的跨平台 ( 大转盘 / 九宫格 / 老虎机 ) 抽奖插件
+
+[reat-icons](https://github.com/react-icons/react-icons)
+
+图标库
+
+### 错误边界
+
+[react-error-boundary](https://github.com/bvaughn/react-error-boundary)
 
 ## Vue
 
