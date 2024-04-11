@@ -28,8 +28,6 @@ what I use ?
 
 [React-photo-view](https://github.com/MinJieLiu/react-photo-view)
 
-
-
 一个图片瀑布流加载方案
 
 [react-hook-form)](https://github.com/react-hook-form/react-hook-form)
@@ -40,15 +38,11 @@ what I use ?
 
 一个新用户引导插件
 
-
-
 ### 图片截图插件
 
 [antd-img-crop](https://github.com/nanxiaobei/antd-img-crop)
 
 [react-advanced-cropper](https://github.com/advanced-cropper/react-advanced-cropper)
-
-
 
 [react-colorful](https://github.com/omgovich/react-colorful)
 
@@ -63,8 +57,6 @@ what I use ?
 #### 文字动画效果
 
 [react-text-loop](https://github.com/braposo/react-text-loop)
-
-
 
 [react-player](https://github.com/cookpete/react-player)
 
@@ -149,6 +141,12 @@ A custom input component for OTP (One Time Password) based on [Ant Design Input
 ### 错误边界
 
 [react-error-boundary](https://github.com/bvaughn/react-error-boundary)
+
+### OCR
+
+文字识别图片库
+
+[tesseract.js](https://github.com/naptha/tesseract.js)
 
 ## Vue
 
