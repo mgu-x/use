@@ -171,3 +171,7 @@ tailwindcss 是一个具有样式原子化，包含大量样式工具类的工�
 ## 转换工具
 
 [radash](https://radash-docs.vercel.app/docs/getting-started)
+
+## 部署工具
+
+[Jenkins](https://www.jenkins.io/)
